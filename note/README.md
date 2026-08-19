@@ -16,7 +16,8 @@
 | 11~12 | save로 첫 데이터 저장 (insert) | ✅ 완료 | [11-12](11-12-save-insert.md) |
 | 13~15 | SQL 로그 가독성 (format·color·bind 값) | ✅ 완료 | [13-15](13-15-sql-log-readability.md) |
 | 16~17 | content 필드 추가 · @Column TEXT (alter table) | ✅ 완료 | [16-17](16-17-content-text-column.md) |
-| 18~22 | findById · 생성자와 JPA 리플렉션 · final 필드 | ⏳ 다음 | — |
+| 18~20 | 생성자 · findById · JPA 기본생성자 필수(리플렉션) | ✅ 완료 | [18-20](18-20-constructor-findbyid-reflection.md) |
+| 21~22 | 생성자 리팩터(@NoArgsConstructor) · final 필드 리플렉션 | ⏳ 다음 | — |
 | 23~31 | @Component/@Service 계층화 | ⬜ 예정 | — |
 | 32~39 | 트랜잭션 · 더티체킹 · 영속성 컨텍스트 | ⬜ 예정 | — |
 | 38~40 | Auditing · BaseEntity · @MappedSuperclass | ⬜ 예정 | — |
