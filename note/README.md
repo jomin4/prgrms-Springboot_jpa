@@ -13,7 +13,8 @@
 | 5 | H2 파일모드 · DB 전략 · .gitignore | ✅ 완료 | [05](05-h2-file-mode.md) |
 | 6~7 | 엔티티 클래스(Post) · ddl-auto | ✅ 완료 | [06-07](06-07-entity-ddl-auto.md) |
 | 8~10 | git 되돌리기 · 빈/ApplicationRunner · JpaRepository/@Autowired | ✅ 완료 | [08-10](08-10-bean-runner-repository.md) |
-| 11~22 | save/findById · 생성자와 JPA 리플렉션 · final 필드 | ⬜ 예정 | — |
+| 11~12 | save로 첫 데이터 저장 (insert) | ✅ 완료 | [11-12](11-12-save-insert.md) |
+| 13~22 | SQL 로그 포맷 · findById · 생성자와 JPA 리플렉션 · final 필드 | ⏳ 다음 | — |
 | 23~31 | @Component/@Service 계층화 | ⬜ 예정 | — |
 | 32~39 | 트랜잭션 · 더티체킹 · 영속성 컨텍스트 | ⬜ 예정 | — |
 | 38~40 | Auditing · BaseEntity · @MappedSuperclass | ⬜ 예정 | — |
