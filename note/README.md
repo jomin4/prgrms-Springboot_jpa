@@ -11,8 +11,8 @@
 | 2~3 | 프로젝트 세팅 (Initializr, build.gradle, application.yaml, 메인 클래스) | ✅ 완료 | [02-03](02-03-project-setup.md) |
 | 4 | 스프링 부트 첫 실행 해부 (h2 3역할·auto-config) | ✅ 완료 | [04](04-first-run.md) |
 | 5 | H2 파일모드 · DB 전략 · .gitignore | ✅ 완료 | [05](05-h2-file-mode.md) |
-| 6~7 | 엔티티 클래스 · ddl-auto | ⏳ 다음 | — |
-| 8~10 | git 되돌리기 · 빈/ApplicationRunner · JpaRepository/@Autowired | ⬜ 예정 | — |
+| 6~7 | 엔티티 클래스(Post) · ddl-auto | ✅ 완료 | [06-07](06-07-entity-ddl-auto.md) |
+| 8~10 | git 되돌리기 · 빈/ApplicationRunner · JpaRepository/@Autowired | ⏳ 다음 | — |
 | 11~22 | save/findById · 생성자와 JPA 리플렉션 · final 필드 | ⬜ 예정 | — |
 | 23~31 | @Component/@Service 계층화 | ⬜ 예정 | — |
 | 32~39 | 트랜잭션 · 더티체킹 · 영속성 컨텍스트 | ⬜ 예정 | — |
