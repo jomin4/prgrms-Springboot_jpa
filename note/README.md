@@ -10,8 +10,8 @@
 | 1 | Spring Data JPA란 · JPA→MySQL 흐름 (개념) | ✅ 완료 | (개념, 코드 없음) |
 | 2~3 | 프로젝트 세팅 (Initializr, build.gradle, application.yaml, 메인 클래스) | ✅ 완료 | [02-03](02-03-project-setup.md) |
 | 4 | 스프링 부트 첫 실행 해부 (h2 3역할·auto-config) | ✅ 완료 | [04](04-first-run.md) |
-| 5 | H2 · 프로파일 · DB 파일모드 | ⏳ 다음 | — |
-| 6~7 | 엔티티 클래스 · ddl-auto | ⬜ 예정 | — |
+| 5 | H2 파일모드 · DB 전략 · .gitignore | ✅ 완료 | [05](05-h2-file-mode.md) |
+| 6~7 | 엔티티 클래스 · ddl-auto | ⏳ 다음 | — |
 | 8~10 | git 되돌리기 · 빈/ApplicationRunner · JpaRepository/@Autowired | ⬜ 예정 | — |
 | 11~22 | save/findById · 생성자와 JPA 리플렉션 · final 필드 | ⬜ 예정 | — |
 | 23~31 | @Component/@Service 계층화 | ⬜ 예정 | — |
